@@ -7,7 +7,7 @@
 - 💬 Ask me about **Javascript, Html, Python, Css**</br>
 - 📫 How to reach me **pedromvmota@outlook.pt**</br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raflox&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroVMota&show_icons=true&theme=dracula)
 
 <p align="center">
   <img src="giphy.gif" alt="animated" / style="border-radius: 30px;">
