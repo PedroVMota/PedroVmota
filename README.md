@@ -7,5 +7,5 @@
 - 💬 Ask me about **Javascript, Html, Python, Css**</br>
 - 📫 How to reach me **pedromvmota@outlook.pt**</br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroVMota&show_icons=true&theme=dracula)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=PedroVMota&theme=dracula" alt="mystreak"/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVMota&hide_progress=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
