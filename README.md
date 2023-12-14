@@ -1,11 +1,23 @@
-<h1 align="center">Hi 👋, I'm Pedro Mota</h1>
-<h3 align="center">A Tech Geek currently depressing because i can't find my way in this world!</h3>
+<div align=center>
+	<img src=https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif />
+</div>
+<br>
+<br>
+<div align=center>
+	<h1> Hello welcome to my space 🚀 </h1>
+	<h3> A Software Developer at
+		<a href="https://www.42lisboa.com/">
+			42Lisbon
+		</a>
+	</h3>
+</div>
+<br>
+<br>
 
-- 🌱 I’m currently learning **C Language**</br>
-- 👯 I’m looking to collaborate on **Pedro Silva**</br>
-- 🤝 I’m looking for help with **C Language**</br>
-- 💬 Ask me about **Javascript, Html, Python, Css**</br>
-- 📫 How to reach me **pedromvmota@outlook.pt**</br>
+### **Best habilities**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroVMota&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVMota&hide_progress=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+- 💬 Very good comunication
+- ⌚ Fast thinking
+- 📖 Good Code
+- 🏢 Good Team Work
+
