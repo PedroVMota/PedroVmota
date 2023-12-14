@@ -10,6 +10,10 @@
 			42Lisbon
 		</a>
 	</h3>
+	<br>
+	<a href="https://www.linkedin.com/in/pedro-mota-6370192a3/">
+		<img src="https://skillicons.dev/icons?i=linkedin" />
+	</a>
 </div>
 <br>
 <br>
@@ -23,4 +27,4 @@
 
 ## Tools that I use very often
 
-[](https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,vue,python,tailwindcss,docker,powershell,nodejs,java,react,cs,git,github,bash,blender,dotnet,neovim,gitlab,mysql)](https://skillicons.dev)
