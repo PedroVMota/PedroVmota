@@ -5,6 +5,7 @@
 <br>
 <div align=center>
 	<h1> Hello welcome to my space 🚀 </h1>
+	<img src="https://profile-counter.glitch.me/PedroVMota/count.svg" />
 	<h3> A Software Developer at
 		<a href="https://www.42lisboa.com/">
 			42Lisbon
