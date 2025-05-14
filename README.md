@@ -1,31 +1,24 @@
-<div align=center>
-	<img src=https://media.giphy.com/media/ve43TyDQ3B4me7d22z/giphy.gif width=100 />
-</div>
-<br>
-<br>
-<div align=center>
-	<h1> Hello welcome to my space 🚀 </h1>
-	<img src="https://profile-counter.glitch.me/PedroVMota/count.svg" />
-	<h3> A Software Developer at
-		<a href="https://www.42lisboa.com/">
-			42Lisbon
-		</a>
-	</h3>
-	<br>
-	<a href="https://www.linkedin.com/in/pedro-mota-6370192a3/">
-		<img src="https://skillicons.dev/icons?i=linkedin" />
-	</a>
-</div>
-<br>
-<br>
+# Hey there! 👋
 
-### **Best habilities**
+Check out my projects [right here](https://github.com/PedroVMota?tab=repositories)
 
-- 💬 Very good comunication
-- ⌚ Fast thinking
-- 📖 Good Code
-- 🏢 Good Team Work
+I'm a software dev who loves diving into new stuff. Right now I'm going deep into **Full Stack development**.
 
-## Tools that I use very often
+## Web Dev Stack
+Here's what I'm working with:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,c,cpp,vue,python,tailwindcss,docker,powershell,nodejs,java,react,cs,git,github,bash,blender,dotnet,neovim,gitlab,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,html,css,python,php,mysql,postgres,node)](https://skillicons.dev)
+
+## DevOps Side
+Yep, I'm totally hooked on this stuff too:
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,linux,bash,docker,arch,kubernetes)](https://skillicons.dev)
+
+## My Desk Setup
+- 1x 32" 2K monitor (main screen)
+- 2x 27" 1080p monitors (for multitasking)
+- MacBook Pro 14" w/ M1 Pro & 16GB RAM
+
+Feel free to explore my repos and hit me up if you want to build something cool together! 
+
+[REPOS](https://github.com/PedroVMota?tab=repositories)
