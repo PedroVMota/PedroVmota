@@ -54,6 +54,26 @@ I'm looking to join a **software house**, where I can build real products, learn
 
 </div>
 
+### 📈 Contribution activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PedroVMota&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution activity graph" />
+
+</div>
+
+### 🐍 Contribution snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PedroVMota/PedroVmota/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PedroVMota/PedroVmota/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/PedroVMota/PedroVmota/output/github-snake.svg" />
+</picture>
+
+</div>
+
 ---
 
 ## 🚀 Projects
