@@ -1,8 +1,8 @@
-# Pedro Mota
+<div align="center">
 
-**Cloud Engineering · Software Development · Automation & DevOps**
+<img src="assets/banner.webp" alt="Pedro Mota - Cloud Engineering, Software Development, Automation & DevOps" width="100%" />
 
-Building reliable infrastructure and the software that runs on it.
+</div>
 
 ## Focus
 
